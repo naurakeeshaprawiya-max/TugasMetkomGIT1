@@ -37,8 +37,7 @@
 1. Dipilih New File kemudian dinamai dengan format namafile.md kemudian diisi markdown.
 ![Tampilan New Repository](images/naming.png)
 
-2. Gambar lampiran di dalam folder yang sama dimasukkan ke markdown menggunakan ![Tampilan New Repository](images/namafilegambar).
-![Tampilan New Repository](images/naming2.png)
+2. Gambar lampiran di dalam folder yang sama dimasukkan ke markdown ![Tampilan New Repository](images/naming2.png)
 
 3. Markdown disimpan dengan cara cara dipilih file kemudian dipilih save.
 ![Tampilan New Repository](images/save2.png)
